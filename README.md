@@ -10,6 +10,7 @@
 تشمل التمارين موضوعات متعددة مثل تنفيذ دوال رياضية يدويًا، تحليل المصفوفات، التعامل مع الأرقام العشوائية، وتصميم برامج تعتمد على هيكلة منطقية واضحة باستخدام وظائف مخصصة.
 
 يهدف المشروع إلى تعزيز المهارات البرمجية من خلال حلول عملية منظمة، تُمكّن المطور من كتابة كود نظيف، قابل للتطوير، وسهل الفهم.
+
 Created by :Ali Abdelhalim
 ---
 
@@ -20,6 +21,7 @@ Bu depo, temel algoritma ve problem çözme konularını kapsayan C++ projelerin
 Alıştırmalar; matematiksel fonksiyonların manuel olarak uygulanması, dizilerle çalışma, rastgele sayı üretimi ve işlevsel yapılarla mantıksal program tasarımına odaklanmaktadır.
 
 Proje, geliştiricilerin okunabilir, modüler ve genişletilebilir kodlar yazmasını teşvik eden uygulamalı çözümler sunar.
+
 Created by :Ali Abdelhalim
 ---
 
